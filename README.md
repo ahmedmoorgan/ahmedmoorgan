@@ -24,8 +24,8 @@
 
 
 ### 🛠 &nbsp;Tech Stack
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python&logoColor=1572B6)&nbsp;
+![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -36,7 +36,6 @@
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedmorgan&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages"/>
 <br>
 <a href="https://komarev.com/ghpvc/?username=ahmedmorgan&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
